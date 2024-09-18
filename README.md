@@ -15,7 +15,6 @@ Oie😁. Eu sou o Wellington Carvalho
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UClWEubnyM1Wli8MRXq_GazQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
